@@ -1,0 +1,2 @@
+# menjumlakan-deret
+tugas belajar
